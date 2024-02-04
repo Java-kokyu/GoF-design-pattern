@@ -1,2 +1,5 @@
-package org.gof.iterator;public interface Aggregator {
+package org.gof.iterator;
+
+public interface Aggregator {
+    Iterator iterator();
 }
