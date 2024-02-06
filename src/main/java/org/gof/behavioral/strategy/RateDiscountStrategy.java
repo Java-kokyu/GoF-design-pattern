@@ -1,4 +1,4 @@
-package org.gof.strategy;
+package org.gof.behavioral.strategy;
 
 public class RateDiscountStrategy implements DiscountStrategy{
     @Override

@@ -1,4 +1,4 @@
-package org.gof.iterator;
+package org.gof.behavioral.iterator;
 
 public class Array implements Aggregator{
     private Item[] items;

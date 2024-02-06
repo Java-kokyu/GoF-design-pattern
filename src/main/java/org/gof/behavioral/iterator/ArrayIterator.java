@@ -1,4 +1,4 @@
-package org.gof.iterator;
+package org.gof.behavioral.iterator;
 
 public class ArrayIterator implements Iterator{
     private Array array;

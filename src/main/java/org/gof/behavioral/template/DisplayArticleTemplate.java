@@ -1,4 +1,4 @@
-package org.gof.template;
+package org.gof.behavioral.template;
 
 public abstract class DisplayArticleTemplate {
     protected Article article;

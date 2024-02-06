@@ -1,4 +1,4 @@
-package org.gof.template;
+package org.gof.behavioral.template;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

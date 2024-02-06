@@ -1,4 +1,4 @@
-package org.gof.strategy;
+package org.gof.behavioral.strategy;
 
 public class Main {
     public static void main(String[] args) {

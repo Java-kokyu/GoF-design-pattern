@@ -1,4 +1,4 @@
-package org.gof.strategy;
+package org.gof.behavioral.strategy;
 
 public class PrintPrice {
     void print(DiscountStrategy strategy, int price) {

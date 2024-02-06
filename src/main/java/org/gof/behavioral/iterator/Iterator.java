@@ -1,4 +1,4 @@
-package org.gof.iterator;
+package org.gof.behavioral.iterator;
 
 public interface Iterator {
     // Aggregator의 다음 구성 메서드를 가져온다

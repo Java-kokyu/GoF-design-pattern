@@ -1,4 +1,4 @@
-package org.gof.iterator;
+package org.gof.behavioral.iterator;
 
 public class Item {
     private String name;
